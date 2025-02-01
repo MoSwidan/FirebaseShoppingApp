@@ -1,16 +1,22 @@
-# firebaseapp
+# Shopping App with Firebase Authentication
 
-A new Flutter project.
+## Description
+A shopping app with Firebase authentication (email/password). The app includes a login page, sign-up page, and a home screen for shopping.
 
-## Getting Started
+## Features
+1. **Firebase Authentication**:
+   - Login with email and password.
+   - Sign-up with email and password.
+2. **Validation**:
+   - Input validation for email and password fields.
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repository or copy the `main.dart` file to your local system.
+2. Navigate to the project directory in your terminal.
+3. Run the program using the following command:
+   ```bash
+   dart run main.dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ## Example Output
+![Output Screenshot](screenshot1.png)
+![Output Screenshot](screenshot2.png)
